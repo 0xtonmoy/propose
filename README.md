@@ -1,5 +1,5 @@
 # Propose
 Propose Your Valentine ❤
 
-#Live Preview:
+#Live Preview: https://0xtonmoy.github.io/propose/
 # propose
